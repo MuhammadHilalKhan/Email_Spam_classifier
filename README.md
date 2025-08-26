@@ -44,7 +44,7 @@ email\_spam\_classifier/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/email_spam_classifier.git
+git clone https://github.com/MuhammadHilalKhan/email_spam_classifier.git
 cd email_spam_classifier
 ```
 
